@@ -5,7 +5,7 @@
 ## How to use
 
 See [conan docs](http://docs.conan.io/en/latest/) for instructions in how to use conan, and
-[opendht repo](https://github.com/savoirfairelinux/opendht) for instruction about the library.
+[opendht repo](https://github.com/savoirfairelinux/opendht) for instructions about the library.
 
 
 ## About opendht
