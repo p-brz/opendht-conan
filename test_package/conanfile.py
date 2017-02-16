@@ -4,7 +4,7 @@ import os
 
 username = os.getenv("CONAN_USERNAME", "paulobrizolara")
 channel = os.getenv("CONAN_CHANNEL", "testing")
-version = "1.2.1"
+version = "1.3.0"
 package = "opendht"
 
 class claraTestConan(ConanFile):
